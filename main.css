@@ -1,14 +1,9 @@
-h1 {
-	text-align: center;
-	color: teal;
-}
-
 .caja-cancha {
 	background-color: palegreen;
 	width: 600px;
 	height: 350px;
 	position: relative;
-	left: 212px;
+	left: 25%;
 }
 
 .inner {

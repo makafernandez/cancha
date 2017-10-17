@@ -1,0 +1,82 @@
+h1 {
+	text-align: center;
+	color: teal;
+}
+
+.caja-cancha {
+	background-color: palegreen;
+	width: 600px;
+	height: 350px;
+	position: relative;
+	left: 212px;
+}
+
+.inner {
+	border: 4px solid white;
+	width: 562px;
+	height: 312px;
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+
+.center {
+	width: 152px;
+	height: 152px;
+	border: 4px solid white;
+	position: absolute;
+	left: 220px;
+	bottom: 95px;
+	border-radius: 84px;
+}
+
+.left-box {
+	height: 152px;
+	width: 70px;
+	border: 4px solid white;
+	position: absolute;
+	bottom: 95px;
+	left: 15px;
+}
+
+.right-box {
+	height: 152px;
+	width: 70px;
+	border: 4px solid white;
+	position: absolute;
+	bottom: 95px;
+	right: 15px;
+}
+
+.player1 {
+	height: 18px;
+	width: 18px;
+	background-color: salmon;
+	border-radius: 9px;
+	box-shadow: 1.5px 1.5px 1px 0.5px teal;
+	position: absolute;
+	left: 80px;
+	top: 102px;
+}
+
+.player2 {
+	height: 18px;
+	width: 18px;
+	background-color: salmon;
+	border-radius: 9px;
+	box-shadow: 1.5px 1.5px 1px 0.5px teal;
+	position: absolute;
+	right: 100px;
+	top: 220px;
+}
+
+.player3 {
+	height: 18px;
+	width: 18px;
+	background-color: salmon;
+	border-radius: 9px;
+	box-shadow: 1.5px 1.5px 1px 0.5px teal;
+	position: absolute;
+	left: 305px;
+	top: 45px;
+}
